@@ -1,0 +1,9 @@
+tensorflow>=2.16.0
+keras>=3.0.0
+numpy
+opencv-python
+pillow
+imageio
+imageio-ffmpeg
+scipy
+matplotlib
